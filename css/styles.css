@@ -1,0 +1,22 @@
+body {
+  background: white;
+  color: blue;
+  font-family: arial;
+  height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.menu li {
+  list-style: none;
+}
+
+.site-subtitle {
+  font-weight: 400;
+}
